@@ -19,8 +19,7 @@ Dibuat dengan ❤️ menggunakan Kotlin dan Jetpack Android oleh [Iwani Khairina
 
 ## 📱 Tangkapan Layar
 
-> _(Tambahkan screenshot aplikasi jika ada)_
-
+![Tangkapan Layar Aplikasi BMI](images/Screenshot-BMI.png)
 ---
 
 ## 🚀 Cara Menjalankan Aplikasi
@@ -73,5 +72,3 @@ Proyek ini dibuat dan dikembangkan sepenuhnya menggunakan **Android Studio**. Be
  ┃ ┃ ┗ BMICalculatorTest.kt
 ```
 
-## Pengujian
-Screenshot-BMI.png
