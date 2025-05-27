@@ -34,6 +34,7 @@ Dibuat dengan ❤️ menggunakan Kotlin dan Jetpack Android oleh [Iwani Khairina
    ```bash
    git clone https://github.com/iwanikhairina/Iwanikhairina_2208107010078.git
   ```
+
 2. Buka folder project di Android Studio
 3. Sinkronisasi Gradle
 4. Jalankan aplikasi di emulator
